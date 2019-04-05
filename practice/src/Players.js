@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import App
+// import App
 
 
 class Players extends Component{

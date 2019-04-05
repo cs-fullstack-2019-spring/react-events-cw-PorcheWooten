@@ -9,3 +9,5 @@ Clicking on the player button will add 1 point to their score, which is the zero
 # Challenge:
 
 Change the button label on each button and make the labels and buttons horizontal on the page.
+<hr>
+0 points. The app didn't run. After fixing it, none of the variables match for the program to work properly.
